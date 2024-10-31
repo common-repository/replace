@@ -1,0 +1,13 @@
+
+0.2.1:
+  - commented out 'if (get_magic_quotes_gpc())' --- 'stripslashes' in any
+    case.
+
+0.2.0:
+  - added 'Escape/Dont escape HTML chars' for list view.
+
+0.1.4:
+  - added restriction for replacing: authenticated users or guests.
+
+
+# vim: set tw=72
